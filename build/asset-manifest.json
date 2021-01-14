@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e51f3d81.chunk.css",
+    "main.js": "/static/js/main.453821c1.chunk.js",
+    "main.js.map": "/static/js/main.453821c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13cc09a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13cc09a0.js.map",
+    "static/js/2.c32d92b4.chunk.js": "/static/js/2.c32d92b4.chunk.js",
+    "static/js/2.c32d92b4.chunk.js.map": "/static/js/2.c32d92b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e51f3d81.chunk.css.map": "/static/css/main.e51f3d81.chunk.css.map",
+    "static/js/2.c32d92b4.chunk.js.LICENSE.txt": "/static/js/2.c32d92b4.chunk.js.LICENSE.txt",
+    "static/media/BlackMain.29426620.jpg": "/static/media/BlackMain.29426620.jpg",
+    "static/media/Hoodie1.e6858494.jpg": "/static/media/Hoodie1.e6858494.jpg",
+    "static/media/Hoodie3.f7a5c3ec.jpg": "/static/media/Hoodie3.f7a5c3ec.jpg",
+    "static/media/Hoodie4.58d7a9a3.jpg": "/static/media/Hoodie4.58d7a9a3.jpg",
+    "static/media/Hoodie5.111b3f87.jpg": "/static/media/Hoodie5.111b3f87.jpg",
+    "static/media/Hoodie6.a5adc4ca.jpg": "/static/media/Hoodie6.a5adc4ca.jpg",
+    "static/media/Hoodie7.d03f33e1.jpg": "/static/media/Hoodie7.d03f33e1.jpg",
+    "static/media/blackHoodie1.76edf7c2.jpg": "/static/media/blackHoodie1.76edf7c2.jpg",
+    "static/media/blackHoodie2.a16de114.jpg": "/static/media/blackHoodie2.a16de114.jpg",
+    "static/media/blackHoodie3.14e57f54.jpg": "/static/media/blackHoodie3.14e57f54.jpg",
+    "static/media/blueHoodie1.ab428b51.jpg": "/static/media/blueHoodie1.ab428b51.jpg",
+    "static/media/blueHoodie2.6249200b.jpg": "/static/media/blueHoodie2.6249200b.jpg",
+    "static/media/blueHoodie3.d43aa39d.jpg": "/static/media/blueHoodie3.d43aa39d.jpg",
+    "static/media/greyHoodie1.6b1e9421.jpg": "/static/media/greyHoodie1.6b1e9421.jpg",
+    "static/media/greyHoodie2.26fa3424.jpg": "/static/media/greyHoodie2.26fa3424.jpg",
+    "static/media/greyHoodie3.68cf1c0c.jpg": "/static/media/greyHoodie3.68cf1c0c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13cc09a0.js",
+    "static/js/2.c32d92b4.chunk.js",
+    "static/css/main.e51f3d81.chunk.css",
+    "static/js/main.453821c1.chunk.js"
+  ]
+}
